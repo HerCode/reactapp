@@ -1,0 +1,5 @@
+/*Give 'body' padding, update font*/
+body{
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial;
+}
